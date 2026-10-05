@@ -1,0 +1,19 @@
+{
+  "patients": 1000,
+  "key_bits": 2048,
+  "scale": 100,
+  "exact_recovery": true,
+  "aggregate_totals_scaled": [
+    1033234,
+    49725014
+  ],
+  "aggregate_totals": [
+    "10332.34",
+    "497250.14"
+  ],
+  "aggregate_means": [
+    "10.33234",
+    "497.25014"
+  ],
+  "private_key_saved": false
+}

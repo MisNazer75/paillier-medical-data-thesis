@@ -1,0 +1,11 @@
+{
+  "raw_runs": 18,
+  "cases": 6,
+  "repeats_per_case": 3,
+  "all_exact_recovery": true,
+  "all_exact_aggregation": true,
+  "dataset_rows": 5000,
+  "dataset_hash_verified": true,
+  "sqlite_end_to_end_demo_records": 1000,
+  "numeric_precision_rejection_test_passed": true
+}
