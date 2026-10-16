@@ -4999,3 +4999,4 @@ id,patient_name,age,gender,cancer_type,cancer_stage,treatment_type,diagnosis_dat
 4998,Synthetic_04998,59,M,breast,III,chemotherapy,2021-08-06,yes,3.75,989.59
 4999,Synthetic_04999,78,M,colon,I,radiotherapy,2024-08-28,no,19.64,653.53
 5000,Synthetic_05000,39,M,colon,II,chemotherapy,2025-05-13,yes,18.86,320.92
+
